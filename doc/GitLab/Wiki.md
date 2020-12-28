@@ -12,7 +12,7 @@
 
 <a id = "flow">
 
-<!-- ## Flow
-* ![Image](../src/Section07/images/init001.png) -->
+## Flow
+<!-- * ![Image](../src/Section07/images/init001.png) -->
 
 ### [Return to Contents](#contents)
